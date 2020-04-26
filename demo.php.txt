@@ -1,4 +1,4 @@
 <?
-echo"Welcome to php";
+echo"Welcome to php day 1";
 echo"Welcome to php day 2";
 ?>
